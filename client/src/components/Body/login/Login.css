@@ -1,0 +1,73 @@
+.loginRoomRenter{
+    background: #e9faff;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.wrapLogin{
+    width: 500px;
+    background: #fff;
+    border-radius: 10px;
+    padding: 60px 50px;
+    box-shadow: 0 3px 20px 0px rgb(0 0 0 / 10%);
+}
+
+.loginTitle{
+    display: block;
+    font-family: Roboto;
+    font-size: 30px;
+    color: #555555;
+    line-height: 1.2;
+    text-align: center;
+    padding-bottom: 33px;
+}
+
+.wrapInput{
+    width: 100%;
+    background-color: #fff;
+    border: 1px solid #e6e6e6;
+}
+
+.inputLogin{
+    height: 68px;
+    padding: 0 25px 0 25px;
+    display: block;
+    width: 100%;
+    background: transparent;
+    
+    font-size: 15px;
+    color: #666666;
+    line-height: 1.2;
+    outline: none;
+    border: none;
+}
+
+.containerLoginBtn{
+    width: 100%;
+    margin-top: 20px;
+}
+
+.loginBtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+    width: 100%;
+    height: 60px;
+    background-color: #4272d7;
+    
+    font-size: 14px;
+    color: #fff;
+    line-height: 1.2;
+    text-transform: uppercase;
+    outline: none;
+    border: none;
+}
+
+.wrapLinkLogin{
+    margin-top: 20px; 
+    text-align: center;
+}

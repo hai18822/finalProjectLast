@@ -1,0 +1,29 @@
+.searchForm{
+    margin-top: 50px;
+    position: relative;
+}
+
+.searchForm__input{
+    margin: 0;
+    background: #fff;
+    border-radius: 12px;
+    border: 1px solid #333;
+    box-shadow: 0 12px 15px 0 rgb(0 0 0 / 10%);
+    height: 72px;
+    width: 100%;
+    padding: 10px 66px 10px 49px;
+    max-height: none;
+    color: #333;
+    font-size: 17px;
+    line-height: 18px;
+}
+.searchForm__btn{
+    position: absolute;
+    right: 1px;
+    top: 1px;
+    width: 72px;
+    cursor: pointer;
+    border-radius: 0 12px 12px 0;
+    height: 70px;
+    border: none;
+}
